@@ -1,22 +1,22 @@
 body{
-    background-color: rgb(250, 250, 250);
+    background-color: rgb(252, 239, 239);
     font-size: medium;
     padding: auto;
     padding: 6em;
 }
 .description{
     text-align: left;
-    font-size: 20px;
+    font-size: 15px;
     padding: none;
-    margin-top: -20mm;
+    margin-top: -15mm;
     
 }
 
 .education_header{
     padding-left: 60%; 
-    font-size: 20px;
+    font-size: 15px;
     text-align: left;
-    margin-top: -23mm;
+    margin-top: -18mm;
 }
 
 .education{
@@ -28,28 +28,28 @@ body{
 
 .summary{
     padding-right:60%; 
-    font-size: 20px;
+    font-size: 15px;
     text-align: left;
     padding-top: 1em;
     margin-top: -3rem;
 }
 h1{
-    font-size: 20px; 
+    font-size: 15px; 
     text-emphasis: none;
 }
 
 .employment_header{
     padding-left: 60%; 
-    font-size: 20px;
+    font-size: 15px;
     text-align: left;
-    margin-top: -25mm;
+    margin-top: -19mm;
 }
 
 .skills{
     padding-right: 60%; 
-    font-size: 20px;
+    font-size: 15px;
     text-align: left;
     display: inline-block;
-    margin-top: -15em;
+    margin-top: -12em;
 }
 
